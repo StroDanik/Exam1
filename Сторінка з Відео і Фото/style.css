@@ -1,0 +1,22 @@
+.gallery{
+	text-decoration:none;
+	font-size:35px;
+	text-align:center;
+	position:relative;
+	top:30px;
+	left:20px;
+}
+.g1{
+	text-decoration:none;
+	font-size:35px;
+	text-align:center;
+	width:100%;
+	height:115px;
+	background:linear-gradient(to right,red,yellow);
+}
+@media screen and (min-width 320px)
+{
+	body{
+	background:linear-gradient(to right,red,yellow);
+	}
+}
